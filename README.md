@@ -2,9 +2,8 @@
 
 # Projeto que busca na api do Git hub dados do perfil dos usuários.
 
-Feito no curso DevQuest, no módulo de Javascript avançado.
 
-Pude praticar e entender melhor o uso do fetch para fazer requisições de API, e também o conceito de módulos. 
+Fazendo essa aplicação pude praticar e entender melhor o uso do fetch para fazer requisições de APIs, e também o conceito de módulos, separando mais as responsabilidades dentro do projeto. 
 
 # Tecnologias utilizadas:
 #JS #CSS #HTML 
